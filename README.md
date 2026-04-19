@@ -2,7 +2,7 @@
 
 A fast, interactive, and user-friendly single-file Shiny application designed for biological data analysis. 
 
-The **Bio-Stats Explorer** provides an intuitive interface for researchers and students to quickly upload datasets, view interactive tables, compute summary statistics, and generate publication-ready visualizations—all without writing a single line of code.
+The **Bio-Stats Explorer** provides an intuitive interface for researchers and students to quickly upload datasets, view interactive tables, compute summary statistics, and generate publication-ready visualizations-all without writing a single line of code.
 
 ##  Features
 
