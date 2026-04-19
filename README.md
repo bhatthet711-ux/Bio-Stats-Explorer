@@ -1,20 +1,20 @@
-# The Bio-Stats Explorer 🧬📊
+# The Bio-Stats Explorer 
 
 A fast, interactive, and user-friendly single-file Shiny application designed for biological data analysis. 
 
 The **Bio-Stats Explorer** provides an intuitive interface for researchers and students to quickly upload datasets, view interactive tables, compute summary statistics, and generate publication-ready visualizations—all without writing a single line of code.
 
-## ✨ Features
+##  Features
 
-- **📂 Easy Data Upload:** Upload any `.csv` dataset. The app is optimized for biological datasets (e.g., gene expression, concentrations, measurements).
-- **📋 Interactive Data Tables:** View, search, sort, and download your raw data using the highly responsive `DT` package interface.
-- **🔢 Automated Statistics:** Dynamically calculate key summary statistics (Mean, Median, Variance, Std Deviation, Min, Max, and Missing Values) for selected numeric variables.
-- **📈 Publication-Quality Visualizations:**
+- ** Easy Data Upload:** Upload any `.csv` dataset. The app is optimized for biological datasets (e.g., gene expression, concentrations, measurements).
+- ** Interactive Data Tables:** View, search, sort, and download your raw data using the highly responsive `DT` package interface.
+- ** Automated Statistics:** Dynamically calculate key summary statistics (Mean, Median, Variance, Std Deviation, Min, Max, and Missing Values) for selected numeric variables.
+- ** Publication-Quality Visualizations:**
   - **Distribution Histograms:** Overlayed with Kernel Density Estimates and mean annotations.
   - **Boxplots:** Visualize distributions across categorical groups with underlying jittered data points for better data density representation.
-- **🎨 Modern UI:** Built with `bslib` implementing a professional, modern, responsive theme using the Inter font.
+- ** Modern UI:** Built with `bslib` implementing a professional, modern, responsive theme using the Inter font.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ Alternatively, you can run the app directly from your R console:
 shiny::runApp("path/to/directory/containing/app.R")
 ```
 
-## 🛠️ Usage Flow
+##  Usage Flow
 
 1. **Upload:** Use the sidebar to upload a `.csv` file. 
 2. **Select Variables:** Choose a numeric variable. Optionally, select a categorical variable to group the data.
@@ -47,7 +47,7 @@ shiny::runApp("path/to/directory/containing/app.R")
    - Tab 2: **Summary Statistics** - Review calculated metrics.
    - Tab 3: **Visualizations** - Examine distributions visually.
 
-## 📦 Dependencies
+##  Dependencies
 
 - `shiny` - Core framework
 - `dplyr` - Data manipulation
@@ -55,6 +55,6 @@ shiny::runApp("path/to/directory/containing/app.R")
 - `DT` - Interactive datatables
 - `bslib` - Bootstrap styling
 
-## 📄 License
+##  License
 
 This project is open-source and available for research and educational purposes.
