@@ -6,10 +6,10 @@ The **Bio-Stats Explorer** provides an intuitive interface for researchers and s
 
 ##  Features
 
-- ** Easy Data Upload:** Upload any `.csv` dataset. The app is optimized for biological datasets (e.g., gene expression, concentrations, measurements).
-- ** Interactive Data Tables:** View, search, sort, and download your raw data using the highly responsive `DT` package interface.
-- ** Automated Statistics:** Dynamically calculate key summary statistics (Mean, Median, Variance, Std Deviation, Min, Max, and Missing Values) for selected numeric variables.
-- ** Publication-Quality Visualizations:**
+- **Easy Data Upload:** Upload any `.csv` dataset. The app is optimized for biological datasets (e.g., gene expression, concentrations, measurements).
+- **Interactive Data Tables:** View, search, sort, and download your raw data using the highly responsive `DT` package interface.
+- **Automated Statistics:** Dynamically calculate key summary statistics (Mean, Median, Variance, Std Deviation, Min, Max, and Missing Values) for selected numeric variables.
+- **Publication-Quality Visualizations:**
   - **Distribution Histograms:** Overlayed with Kernel Density Estimates and mean annotations.
   - **Boxplots:** Visualize distributions across categorical groups with underlying jittered data points for better data density representation.
 - ** Modern UI:** Built with `bslib` implementing a professional, modern, responsive theme using the Inter font.
