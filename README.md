@@ -12,7 +12,7 @@ The **Bio-Stats Explorer** provides an intuitive interface for researchers and s
 - **Publication-Quality Visualizations:**
   - **Distribution Histograms:** Overlayed with Kernel Density Estimates and mean annotations.
   - **Boxplots:** Visualize distributions across categorical groups with underlying jittered data points for better data density representation.
-- ** Modern UI:** Built with `bslib` implementing a professional, modern, responsive theme using the Inter font.
+- **Modern UI:** Built with `bslib` implementing a professional, modern, responsive theme using the Inter font.
 
 ##  Getting Started
 
